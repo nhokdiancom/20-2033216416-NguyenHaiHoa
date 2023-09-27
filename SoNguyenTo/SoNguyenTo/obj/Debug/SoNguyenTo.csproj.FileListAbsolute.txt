@@ -7,3 +7,4 @@ E:\LuuDuLieuSinhVien\20-2033216416-NguyenHaiHoa\SoNguyenTo\SoNguyenTo\obj\Debug\
 E:\LuuDuLieuSinhVien\20-2033216416-NguyenHaiHoa\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.csproj.GenerateResource.Cache
 E:\LuuDuLieuSinhVien\20-2033216416-NguyenHaiHoa\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.exe
 E:\LuuDuLieuSinhVien\20-2033216416-NguyenHaiHoa\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.pdb
+E:\LuuDuLieuSinhVien\20-2033216416-NguyenHaiHoa\SoNguyenTo\SoNguyenTo\obj\Debug\SoNguyenTo.PTBac2.resources
